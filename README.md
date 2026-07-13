@@ -24,5 +24,5 @@ Instead of just summarizing arguments, Nexus calculates the actual political and
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Mahabu-Subhani/Nexus-Resolve.git](https://github.com/Mahabu-Subhani/Nexus-Resolve)
-   cd nexus-temporal-simulation
+   git clone https://github.com/Mahabu-Subhani/Nexus-Resolve.git
+   cd Nexus-Resolve
